@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "67cee9084555b4457a1dfdbe"
+  },
+  "id": 3,
+  "author": "Harper Lee",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe2OB232subhhC0wsLSAljKYAzyAf6FyPqWA&s",
+  "description": "A coming-of-age story set in the American South during the Jim Crow era, exploring themes of racism and justice.",
+  "title": "To Kill a Mockingbird"
+},
+{
+  "_id": {
+    "$oid": "67cee9084555b4457a1dfdbf"
+  },
+  "id": 4,
+  "author": "J.R.R. Tolkien",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566425108i/33.jpg",
+  "title": "The Lord of the Rings",
+  "description": "An epic fantasy trilogy following a group of hobbits on a quest to destroy a powerful ring, exploring themes of good versus evil."
+},
+{
+  "_id": {
+    "$oid": "67cee9084555b4457a1dfdc0"
+  },
+  "id": 5,
+  "author": "Leo Tolstoy",
+  "image": "https://www.booksparadise.pk/cdn/shop/files/war-and-peace-english-edition-7.jpg?v=1713306462",
+  "description": "A sprawling historical novel set during the Napoleonic Wars, examining the lives of various characters and exploring themes.",
+  "title": "War and Peace"
+},
+{
+  "_id": {
+    "$oid": "67cee9084555b4457a1dfdc1"
+  },
+  "id": 6,
+  "author": " Vladimir Nabokov",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657548281i/18133.jpg",
+  "description": "The novel tells the story of Humbert Humbert, a man with a disturbing obsession for young girls obsession for.",
+  "title": " Lolita"
+},
+{
+  "_id": {
+    "$oid": "67cf26a54555b4457a1dfdda"
+  },
+  "image": "https://i1.sndcdn.com/artworks-000433245891-x4wj4q-t1080x1080.jpg",
+  "author": "Bacha Khan",
+  "description": "Abdul Ghaffar Khan, also known as Bacha Khan or Badshah Khan, was an Indian independence activist from the North-West Frontier Province",
+  "title": "Stream Zama Jwand Awo JedoJehad"
+},
+{
+  "_id": {
+    "$oid": "67d04f29f37e6246f71d8588"
+  },
+  "image": "https://images.thegreatestbooks.org/hfiptkzo82hkprq8p4yfxoxb8pns",
+  "description": "This classic novel revolves around the lives of the Bennet family, particularly the five unmarried daughters.",
+  "author": "abc",
+  "title": "Pride and Prejudice by Jane Austen"
+},
+{
+  "_id": {
+    "$oid": "67d05073f37e6246f71d858a"
+  },
+  "image": "https://images.thegreatestbooks.org/zn1ido1m2k5cyeyncvjylwgbjjsl",
+  "author": "def",
+  "description": "This classic novel follows the journey of a seaman who travels up the Congo River into the African interior to meet a ivory trader.",
+  "title": "Heart of Darkness by Joseph Conrad"
+},
+{
+  "_id": {
+    "$oid": "67d0514af37e6246f71d858b"
+  },
+  "image": "https://images.thegreatestbooks.org/1tkf7j59dzymz99vqob0e95m44mk",
+  "author": "khan",
+  "description": "This a compilation of stories by a renowned author that takes readers on a journey through a world of philosophical paradoxes",
+  "title": "The Red and the Black by Stendhal"
+},
+{
+  "_id": {
+    "$oid": "67d1dd70197f6f6284fbfd1f"
+  },
+  "title": "House Of Dragon",
+  "author": "JJ Martin",
+  "description": "House of the Dragon is an American fantasy drama television series created by George R. R. Martin and Ryan Condal for HBO. A prequel to Game of Thrones",
+  "image": "https://static3.go3.tv/scale/go3/imagesVOD/147950468.jpg?dsth=1080&dstw=1920&srcmode=0&quality=65&srcx=0&srcy=0&srcw=1/1&srch=1/1&type=1",
+  "createdAt": {
+    "$date": "2025-03-12T19:16:00.157Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-12T19:16:00.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d1de35197f6f6284fbfd24"
+  },
+  "title": "Testing",
+  "author": "testing",
+  "description": "House of the Dragon is an American fantasy drama television series created by George R. R. Martin and Ryan Condal for HBO. A prequel to Game of Thrones",
+  "image": "https://ychef.files.bbci.co.uk/1280x720/p0jgl914.jpg",
+  "createdAt": {
+    "$date": "2025-03-12T19:19:17.050Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-12T19:19:17.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2ce691b89980d4c0223d0"
+  },
+  "title": "John Adams",
+  "author": "David McCullough",
+  "description": "The enthralling, often surprising story of John Adams, one of the most important and fascinating Americans who ever lived.",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478144278i/2203.jpg",
+  "createdAt": {
+    "$date": "2025-03-13T12:24:09.758Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T12:24:09.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2da57c32d5031687c7891"
+  },
+  "title": "The Histories",
+  "author": "John M. Marincola",
+  "description": "David Grene, one of the best known translators of the Greek classics, splendidly captures the peculiar quality of Herodotus, the father of history",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1399225547i/1362.jpg",
+  "createdAt": {
+    "$date": "2025-03-13T13:15:03.871Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T13:15:03.871Z"
+  },
+  "__v": 0
+}]

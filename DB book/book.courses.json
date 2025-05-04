@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "67cf13304555b4457a1dfdc7"
+  },
+  "name": "Web Development",
+  "description": "Build responsive and dynamic websites using the latest technologies.",
+  "cost": 1500,
+  "provider": "Tech Solutions Inc.",
+  "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+},
+{
+  "_id": {
+    "$oid": "67cf13304555b4457a1dfdc8"
+  },
+  "name": "Graphic Design",
+  "description": "Create eye-catching and professional graphic designs for your brand.",
+  "cost": 500,
+  "provider": "DesignMasters",
+  "image": "https://images.unsplash.com/photo-1472289065668-ce650ac443d2?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+},
+{
+  "_id": {
+    "$oid": "67cf13304555b4457a1dfdc9"
+  },
+  "name": "SEO Optimization",
+  "description": "Improve your website's ranking on search engines to attract more traffic.",
+  "cost": 800,
+  "provider": "SEO Pro Services",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNYX116T8vGz_PONV60Adw2xpolG-h6fdjYA&s"
+},
+{
+  "_id": {
+    "$oid": "67cf13304555b4457a1dfdca"
+  },
+  "name": " App Development",
+  "description": "Design and develop custom mobile applications for iOS and Android.",
+  "cost": 2500,
+  "provider": "App Innovators",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRERE6YRbAyk1vURUzRp6d0AtR84__mBakV1A&s"
+},
+{
+  "_id": {
+    "$oid": "67cf13304555b4457a1dfdcb"
+  },
+  "name": "Content Writing",
+  "description": "Write high-quality articles, blog posts, and web content for various industries.",
+  "cost": 300,
+  "provider": "Content Creators Hub",
+  "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29udGVudCUyMHdyaXRpbmd8ZW58MHx8MHx8fDA%3D"
+},
+{
+  "_id": {
+    "$oid": "67cf13304555b4457a1dfdcc"
+  },
+  "name": " Media Marketing",
+  "description": "Increase your online presence through effective social media strategies.",
+  "cost": 1000,
+  "provider": "SocialBoost Agency",
+  "image": "https://media.istockphoto.com/id/1346575545/photo/3d-render-of-social-media-business-concept.jpg?s=612x612&w=0&k=20&c=1083IFHVsot9K6aguY59kOLCWIijhPQT69oYJB9SYS0="
+},
+{
+  "_id": {
+    "$oid": "67cf13304555b4457a1dfdcd"
+  },
+  "name": "Photography",
+  "description": "Capture high-quality photos for events, portraits, and more.",
+  "cost": 600,
+  "provider": "PixelPerfection Studios",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVXiDsyjdfycvgrf5SzEqwUzTzRKG56ExQug&s"
+},
+{
+  "_id": {
+    "$oid": "67cf13304555b4457a1dfdce"
+  },
+  "name": "Virtual Assistance",
+  "description": "Provide administrative support services remotely to save you time.",
+  "cost": 400,
+  "provider": "VA Experts",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3sMatSvrlQ9xB9Oc2Uc27E9stHQb9TihpmNi8NZWD5lvjUlN8C6ZIlQJSKnGy6vlh4Q8&usqp=CAU"
+},
+{
+  "_id": {
+    "$oid": "67cf13304555b4457a1dfdcf"
+  },
+  "name": "Video Editing",
+  "description": "Edit high-quality videos for various purposes, including promotions and events.",
+  "cost": 700,
+  "provider": "VideoMaster Studios",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu3ykOE1TM4u9A01liNVW63ukfShQ4jtbnRwi2D3xNsq2BhQisfHsJhbWAXeXyaAdU2vs&usqp=CAU"
+},
+{
+  "_id": {
+    "$oid": "67cf13304555b4457a1dfdd0"
+  },
+  "name": "Email Marketing",
+  "description": "Create and manage email campaigns to engage and retain customers.",
+  "cost": 450,
+  "provider": "EmailPro Solutions",
+  "image": "https://5.imimg.com/data5/WR/XZ/UQ/SELLER-86491031/email-marketing-services-500x500.jpg"
+},
+{
+  "_id": {
+    "$oid": "67cf13304555b4457a1dfdd1"
+  },
+  "name": "Express JS",
+  "description": "Create and manage good and strong website structure.",
+  "cost": 350,
+  "provider": "Web Trainer",
+  "image": "https://cdn.prod.website-files.com/6320125ace536b6ad148eca3/66502d746f57d299fe0e0c31_Image%201-Express.js.webp"
+},
+{
+  "_id": {
+    "$oid": "67cf13304555b4457a1dfdd2"
+  },
+  "name": "React JS",
+  "description": "Create and manage good and strong website structure.",
+  "cost": 650,
+  "provider": "Web Trainer",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQThAnp0wRy4KISgsdiJgnE54DHpy5Vc_iSfrImEH_HiU3I3EIYSwsrhTnLo6-NivR3DjM&usqp=CAU"
+},
+{
+  "_id": {
+    "$oid": "67cf296c4555b4457a1dfdde"
+  },
+  "name": "Angular JS",
+  "cost": 245,
+  "provider": "Angular Enterprises",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"
+},
+{
+  "_id": {
+    "$oid": "67d2f06d0f6bcd9369020831"
+  },
+  "name": "Computer Hardware",
+  "cost": 876,
+  "provider": "Cisco",
+  "description": "Dive into Computer Hardware Basics! Explore PC, laptop, and mobile device components.",
+  "image": "https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index/jcr:content/Grid/category_atl/layout-category-atl/blade_1724121814/bladeContents/quarters/Q-Quarter-4/tile_copy.img.jpg/1737718188891.jpg",
+  "createdAt": {
+    "$date": "2025-03-13T14:49:17.337Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T14:49:17.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2f6d40f6bcd9369020844"
+  },
+  "name": "Networking Basics",
+  "cost": 676,
+  "provider": "Cisco",
+  "description": "Explore computer networking basics and unravel the secrets behind network operations.",
+  "image": "https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index/jcr:content/Grid/category_atl/layout-category-atl/blade_1724121814/bladeContents/quarters_1679740990/Q-Quarter-2/tile_copy.img.jpg/1737718259262.jpg",
+  "createdAt": {
+    "$date": "2025-03-13T15:16:36.894Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T15:16:36.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2f753baabe763e3c0b622"
+  },
+  "name": "Operating Systems Basics",
+  "cost": 676,
+  "provider": "Cisco",
+  "description": "Explore computer networking basics and unravel the secrets behind network operations.",
+  "image": "https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index/jcr:content/Grid/category_atl/layout-category-atl/blade_1724121814/bladeContents/quarters_1679740990/Q-Quarter-3/tile_copy.img.jpg/1737718291990.jpg",
+  "createdAt": {
+    "$date": "2025-03-13T15:18:43.557Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T15:18:43.557Z"
+  },
+  "__v": 0
+}]
